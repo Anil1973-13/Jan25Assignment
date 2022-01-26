@@ -4,8 +4,12 @@ if(a>10){
 console.log("A is greater than 10");
 
 }
-else{
+elseif(a<10){
 
 console.log("A is less than 10");
 
+}
+else{
+
+console.log("A is equal to 10"):
 }
